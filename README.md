@@ -10,3 +10,7 @@
 ![image](https://user-images.githubusercontent.com/62757915/104806143-98be4d80-5818-11eb-8b21-4aa7da1f26d8.png)
 ![image](https://user-images.githubusercontent.com/62757915/104806152-a7a50000-5818-11eb-8f66-c3d3fdfabc60.png)
 ![image](https://user-images.githubusercontent.com/62757915/104806158-b55a8580-5818-11eb-8943-a61078115c71.png)
+
+## 21/01/18 softmax_Regression_MNIST_EX
+![image](https://user-images.githubusercontent.com/62757915/104883997-f41f4580-59a8-11eb-96a0-a3047ebcfb9a.png)
+
