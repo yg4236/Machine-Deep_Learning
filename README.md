@@ -14,3 +14,5 @@
 ## 21/01/18 softmax_Regression_MNIST_EX
 ![image](https://user-images.githubusercontent.com/62757915/104883997-f41f4580-59a8-11eb-96a0-a3047ebcfb9a.png)
 
+## 21/01/22 ANN_MNIST_TEST
+![image](https://user-images.githubusercontent.com/62757915/105455297-9fd8d600-5cc6-11eb-93c7-a9771c2e3998.png)
