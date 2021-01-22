@@ -16,3 +16,6 @@
 
 ## 21/01/22 ANN_MNIST_TEST
 ![image](https://user-images.githubusercontent.com/62757915/105455297-9fd8d600-5cc6-11eb-93c7-a9771c2e3998.png)
+
+## 21/01/22 CNN_MNIST_TEST
+![image](https://user-images.githubusercontent.com/62757915/105459076-f6e1a980-5ccc-11eb-9186-b9243dc4d7ae.png)
