@@ -19,3 +19,6 @@
 
 ## 21/01/22 CNN_MNIST_TEST
 ![image](https://user-images.githubusercontent.com/62757915/105459076-f6e1a980-5ccc-11eb-9186-b9243dc4d7ae.png)
+
+## 21/02/08 RNN_many-to-one_Review_Sentiment_Analysis
+![image](https://user-images.githubusercontent.com/62757915/107197657-81e5d200-6a37-11eb-8001-11ccf2e67167.png)
